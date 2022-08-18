@@ -1,7 +1,7 @@
 ![version :18.08.2022](https://img.shields.io/badge/version-18.08.2022-informational) &nbsp;
 
 # Hi <img width="30" src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" />
-![](https://i.imgur.com/5mwWLvC.gif)
+![](https://i.imgur.com/OfSOKHL.gif)
 
 ## welcome to Francesca's github<img width="30" src="https://i.imgur.com/2zm9VrT.gif" alt="party blob" />
 
