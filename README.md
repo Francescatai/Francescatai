@@ -49,7 +49,7 @@
 
     ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=Apache-Hadoop&logoColor=F6F617) ![Hive](https://img.shields.io/badge/-HIVE-000?&logo=Apache-Hive&logoColor=F6F617) 
 
-- OS & other
+- OS & Other Technologies
 
     ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
