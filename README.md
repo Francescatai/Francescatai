@@ -15,7 +15,6 @@
   * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> Favorite programming language is Python.
 * <img width="26" src="https://i.imgur.com/bS7o5X4.png" alt="" /> As a challenge enthusiastic, I am diving into the Web API world.
 * <img width="23" src="https://i.imgur.com/roSUZDm.png" alt="" /> I'm on track for learning more about data science and AI knowledge.
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francescatai&show_icons=true&locale=en" alt="francescatai" /></p>
 
 ### 🌱 Full Stack Projects(Click to learn more)
 * [![](https://img.shields.io/badge/-🐾🐕🐈%20齊助浪寶no_more_stray-000)](http://petrip.pair.tw)
@@ -60,6 +59,7 @@
 
 <br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francescatai&show_icons=true&locale=en" alt="francescatai" /></p>
 
 </p>
 
