@@ -1,4 +1,4 @@
-![version :18.08.2022](https://img.shields.io/badge/version-18.08.2022-informational) 
+![version :18.08.2022](https://img.shields.io/badge/version-2022-informational) 
 
 <img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /><img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /><img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" />
 
