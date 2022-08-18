@@ -6,7 +6,7 @@
 
 ![](https://i.imgur.com/szPE2CE.gif)
 
-## ![](https://i.imgur.com/uEck6Yf.gif)<img width="30" src="https://i.imgur.com/2zm9VrT.gif" alt="party blob" />
+## ![](https://i.imgur.com/uEck6Yf.gif)<img width="50" src="https://i.imgur.com/2zm9VrT.gif" alt="party blob" />
 
 
 ### 💡 &nbsp;About Me
