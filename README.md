@@ -50,7 +50,7 @@
 
 - Big Data Stack
 
-    ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=Apache-Hadoop&logoColor=F6F617) ![Hive](https://img.shields.io/badge/-HIVE-000?&logo=Apache-Hive&logoColor=F6F617) 
+    ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas) ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&logoColor=#4B73C9) ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=Apache-Hadoop&logoColor=F6F617) ![Hive](https://img.shields.io/badge/-HIVE-000?&logo=Apache-Hive&logoColor=F6F617) 
 
 - OS & Other Technologies
 
