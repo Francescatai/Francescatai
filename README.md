@@ -9,12 +9,13 @@
 ## ![](https://i.imgur.com/uEck6Yf.gif)<img width="50" src="https://i.imgur.com/2zm9VrT.gif" alt="party blob" />
 
 
-### 💡 &nbsp;About Me
-
+### 💡 &nbsp;About Me [![](https://img.shields.io/badge/-Medium-000)](https://medium.com/@fonthebackendroad777)
+ 
 * <img width="30" src="https://i.imgur.com/EmAaUkT.png" alt="" /> Love Programming.
-  * <img width="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> Favorite programming language is Python.
+  <img width="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> <img width="30" src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-256.png" alt="" />
+  Favorite programming language:Golang & Python.
 * <img width="32" src="https://i.imgur.com/bS7o5X4.png" alt="" /> As a challenge enthusiastic, I am diving into the Web API world.
-* <img width="26" src="https://i.imgur.com/roSUZDm.png" alt="" /> I'm on track for learning more about data science and AI knowledge.
+* <img width="26" src="https://i.imgur.com/roSUZDm.png" alt="" /> I'm on track for learning more about API and Infra knowledge.
 
 ### 🌱 Full Stack Projects(Click to learn more)
 * [![](https://img.shields.io/badge/-🐾🐕🐈%20齊助浪寶no_more_stray-000)](http://petrip.pair.tw)
@@ -30,11 +31,11 @@
 
 -  Programming Language
   
-    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+    ![Golang](https://img.shields.io/badge/-go-05122A?style=flat&logo=go)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 -  Web Framwork
 
-   ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+   ![Gin](https://img.shields.io/badge/-gin-05122A?style=flat&logo=Gin) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 
  *  Frontend
  
@@ -50,11 +51,11 @@
 
 - Big Data Stack
 
-    ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas) ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&logoColor=#4B73C9) ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=Apache-Hadoop&logoColor=F6F617) ![Hive](https://img.shields.io/badge/-HIVE-000?&logo=Apache-Hive&logoColor=F6F617) 
+    ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=Apache-Hadoop&logoColor=F6F617) ![Hive](https://img.shields.io/badge/-HIVE-000?&logo=Apache-Hive&logoColor=F6F617) ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Apache-Kafka&logoColor=F6F617)
 
 - OS & Other Technologies
 
-    ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+    ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
 
 
 <br>
@@ -62,6 +63,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francescatai&show_icons=true&locale=en" alt="francescatai" /></p>
 
 </p>
+
+
 
 
 
