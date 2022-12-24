@@ -35,7 +35,7 @@
 
 -  Web Framwork
 
-   ![Gin](https://img.shields.io/badge/-gin-05122A?style=flat&logo=Gin) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+   ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 
  *  Frontend
  
