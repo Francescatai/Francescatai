@@ -12,7 +12,7 @@
 ### 💡 &nbsp;About Me [![](https://img.shields.io/badge/-Medium-000)](https://medium.com/@fonthebackendroad777)
  
 * <img width="30" src="https://i.imgur.com/EmAaUkT.png" alt="" /> Love Programming.
-  <img width="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> <img width="30" src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-256.png" alt="" />
+  <img width="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> <img width="30" src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-256.png" alt="" />\n
   Favorite programming language:Golang & Python.
 * <img width="32" src="https://i.imgur.com/bS7o5X4.png" alt="" /> As a challenge enthusiastic, I am diving into the Web API world.
 * <img width="26" src="https://i.imgur.com/roSUZDm.png" alt="" /> I'm on track for learning more about API and Infra knowledge.
