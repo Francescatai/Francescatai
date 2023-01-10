@@ -18,7 +18,7 @@
 * <img width="26" src="https://i.imgur.com/roSUZDm.png" alt="" /> I'm on track for learning more about API and Infra knowledge.
 
 ### 🌱 Full Stack Projects(Click to learn more)
-* [![](https://img.shields.io/badge/-🐾🐕🐈%20齊助浪寶no_more_stray-000)](http://petrip.pair.tw)
+* [![](https://img.shields.io/badge/-🐾🐕🐈%20齊助浪寶no_more_stray-000)](https://github.com/Francescatai/NoMoreStray_flaskAPI.git)
   ######   Project Tech Stack: 
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) ![VUE3](https://img.shields.io/badge/-Vue3-000?&logo=Vue.js) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 
