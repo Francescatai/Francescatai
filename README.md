@@ -26,8 +26,7 @@
 
 ### 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescatai&show_icons=true&locale=en&layout=compact" alt="francescatai" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francescatai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -  Programming Language
   
@@ -58,12 +57,7 @@
     ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
 
 
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francescatai&show_icons=true&locale=en" alt="francescatai" /></p>
-
-</p>
-
+![Francescatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francescatai&show_icons=true&hide=contribs,prs,stars)
 
 
 
