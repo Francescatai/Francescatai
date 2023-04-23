@@ -1,4 +1,4 @@
-![version :10.01.2023](https://img.shields.io/badge/version-2023-informational) 
+![version :23.04.2023](https://img.shields.io/badge/version-2023-informational) 
 
 <img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /><img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /><img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" />
 
@@ -6,7 +6,7 @@
 
 ![](https://i.imgur.com/szPE2CE.gif)
 
-## ![](https://i.imgur.com/uEck6Yf.gif)<img width="50" src="https://i.imgur.com/2zm9VrT.gif" alt="party blob" />
+## ![](https://i.imgur.com/uEck6Yf.gif)
 
 
 ### 💡 &nbsp;About Me [![](https://img.shields.io/badge/-Medium-000)](https://medium.com/@fonthebackendroad777)
@@ -30,15 +30,15 @@
 
 -  Programming Language
   
-    ![Golang](https://img.shields.io/badge/-go-05122A?style=flat&logo=go)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+    ![Golang](https://img.shields.io/badge/-GO-05122A?style=flat&logo=go)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 -  Web Framwork
 
-   ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+   ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=golang-gin) ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 
  *  Frontend
  
-    ![VUE3](https://img.shields.io/badge/-Vue3-000?&logo=Vue.js) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) ![JQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=1A71B5) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+    ![VUE3](https://img.shields.io/badge/-Vue3-000?&logo=Vue.js) 
 
 -  Database
 
@@ -46,8 +46,7 @@
 
 - Cloud
 
-    ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google) ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=34B3E8)
-
+    ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google) 
 - Big Data Stack
 
     ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=Apache-Hadoop&logoColor=F6F617) ![Hive](https://img.shields.io/badge/-HIVE-000?&logo=Apache-Hive&logoColor=F6F617) ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Apache-Kafka&logoColor=F6F617)
