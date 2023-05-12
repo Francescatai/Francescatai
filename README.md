@@ -1,4 +1,4 @@
-![version :30.04.2023](https://img.shields.io/badge/version-2022-informational) 
+![version :12.05.2023](https://img.shields.io/badge/version-2023-informational) 
 
 <img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /><img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /><img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" />
 
@@ -9,11 +9,10 @@
 ## ![](https://i.imgur.com/uEck6Yf.gif)
 
 
-### 💡 &nbsp;About Me [![](https://img.shields.io/badge/-Medium-000)](https://medium.com/@fonthebackendroad777)
+### 💡 &nbsp;About Me [![](https://img.shields.io/badge/-Medium-000)](https://medium.com/@fdev777)
  
 * <img width="30" src="https://i.imgur.com/EmAaUkT.png" alt="" /> Love Programming.
   <img width="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> <img width="30" src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-256.png" alt="" />
-   Favorite programming language:Golang & Python.
 * <img width="32" src="https://i.imgur.com/bS7o5X4.png" alt="" /> As a challenge enthusiastic, I am diving into the Web API world.
 * <img width="26" src="https://i.imgur.com/roSUZDm.png" alt="" /> I'm on track for learning more about API and Infra knowledge.
 
