@@ -25,8 +25,8 @@
 
 ### 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescatai&show_icons=true&locale=en&layout=compact" alt="francescatai" /></p>
-
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescatai&show_icons=true&locale=en&layout=compact" alt="francescatai" /></p> -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 -  Programming Language
   
