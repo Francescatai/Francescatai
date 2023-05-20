@@ -8,6 +8,8 @@
 
 ## ![](https://i.imgur.com/uEck6Yf.gif)
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 ### 💡 &nbsp;About Me [![](https://img.shields.io/badge/-Medium-000)](https://medium.com/@fdev777)
  
@@ -26,7 +28,6 @@
 ### 🛠️ Tech Stack
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescatai&show_icons=true&locale=en&layout=compact" alt="francescatai" /></p> -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 -  Programming Language
   
