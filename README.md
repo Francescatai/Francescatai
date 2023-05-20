@@ -1,4 +1,4 @@
-![version :12.05.2023](https://img.shields.io/badge/version-2023-informational) 
+![version :20.05.2023](https://img.shields.io/badge/version-2023-informational) 
 
 <img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /><img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /><img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" />
 
@@ -54,10 +54,3 @@
 - OS & Other Technologies
 
     ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
-
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francescatai&show_icons=true&locale=en" alt="francescatai" /></p>
-
-</p>
