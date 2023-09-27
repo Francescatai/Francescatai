@@ -17,7 +17,7 @@
 * <img width="30" src="https://i.imgur.com/EmAaUkT.png" alt="" />LC Beginner
 </br>
 
-<!--![](https://leetcard.jacoblin.cool/francescaTai?ext=activity&border=0&radius=10&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count&theme=dark)-->
+<!-- ![](https://leetcard.jacoblin.cool/francescaTai?ext=activity&border=0&radius=10&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count&theme=dark) -->
 
 ### 🌱 Full Stack Projects
 * [![](https://img.shields.io/badge/-🐾🐕🐈%20齊助浪寶no_more_stray-000)](http://petrip.pair.tw)
