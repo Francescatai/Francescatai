@@ -17,7 +17,7 @@
 * <img width="30" src="https://i.imgur.com/EmAaUkT.png" alt="" />LC Beginner
 </br>
 
-![](https://leetcard.jacoblin.cool/francescaTai?ext=activity&border=0&radius=10&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count&theme=dark)
+<!--![](https://leetcard.jacoblin.cool/francescaTai?ext=activity&border=0&radius=10&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count&theme=dark)-->
 
 ### 🌱 Full Stack Projects
 * [![](https://img.shields.io/badge/-🐾🐕🐈%20齊助浪寶no_more_stray-000)](http://petrip.pair.tw)
@@ -53,4 +53,4 @@
 
 - OS & Other Technologies
 
-    ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
+    ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
