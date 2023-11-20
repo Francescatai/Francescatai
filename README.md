@@ -1,6 +1,6 @@
 ![version :20.05.2023](https://img.shields.io/badge/version-2023-informational) 
 
-<img width="20" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /><img width="30" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /><img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /> ![](https://i.imgur.com/OfSOKHL.gif)
+<img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /> ![](https://i.imgur.com/OfSOKHL.gif)
 
 <!-- ![](https://i.imgur.com/szPE2CE.gif)
 
