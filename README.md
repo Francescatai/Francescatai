@@ -1,4 +1,4 @@
-![version :20.05.2023](https://img.shields.io/badge/version-2023-informational) 
+![version :23.08.2024](https://img.shields.io/badge/version-2023-informational) 
 
 <img width="40" align="center"  src="https://i.imgur.com/1TfBlOz.gif" alt="party blob" /> ![](https://i.imgur.com/OfSOKHL.gif)
 
@@ -36,20 +36,14 @@
 
    ![Gin](https://img.shields.io/badge/-gin-05122A?style=flat&logo=Gin) ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django) 
 
- *  Frontend
- 
-    ![VUE3](https://img.shields.io/badge/-Vue3-000?&logo=Vue.js)
 
 -  Database
 
-   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 - Cloud
 
-    ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google) 
-- Big Data Stack
-
-    ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=Apache-Hadoop&logoColor=F6F617) ![Hive](https://img.shields.io/badge/-HIVE-000?&logo=Apache-Hive&logoColor=F6F617) ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Apache-Kafka&logoColor=F6F617)
+    ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 - OS & Other Technologies
 
